@@ -1,0 +1,6 @@
+{
+  "name": "Quality Control & Personnel Manager",
+  "description": "A comprehensive local-first QC monitoring, defect registration, personnel org-chart, and compliance analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
